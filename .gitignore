@@ -1,0 +1,14 @@
+# Project-specific data (user's work, not distributable)
+projects/
+_archive/
+PLAN.md
+
+# Claude Code session data
+.claude/projects/
+
+# OS
+.DS_Store
+
+# Environment
+.env
+.env.local
